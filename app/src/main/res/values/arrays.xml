@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="places">
+        <item>Palais Garnie</item>
+        <item>Piazza del Duomo</item>
+        <item>Manhattan</item>
+        <item>Senso-ji</item>
+        <item>Sultan Ahmed Mosque</item>
+        <item>Table Mountain</item>
+    </string-array>
+    <string-array name="place_desc">
+        <item>The Palais Garnier which locates in Paris was built from 1861 for
+        the Paris Opera.
+        </item>
+        <item>Piazza del Duomo the cathedral which locates in Florence.</item>
+        <item>Manhattan is the district in New York City</item>
+        <item>Senso-ji is the Shrine locates in Asakusa Tokyo</item>
+        <item>Sultan Ahmed Mosque is mosque locates in Istabul, Turkey</item>
+        <item>Table Mountain is mountain and park locates in Cape Town, South Africa.</item>
+    </string-array>
+    <string-array name="place_details">
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+    </string-array>
+    <string-array name="place_locations">
+        <item>8 Rue Scribe, 75009 Paris, France</item>
+        <item>Piazza del Capitolo - 50122 Florence</item>
+        <item>New York City</item>
+        <item>2-3-1 Asakusa, Taitō-ku, Tokyo, Japan</item>
+        <item>At Meydanı No:7, 34122 Fatih/İstanbul, Turkey</item>
+        <item>Cape Town, South Africa</item>
+    </string-array>
+
+
+    //TODO ADD UPDATED CARDS
+
+    <array name="cCard_avator">
+        <item>@drawable/archers_a</item>
+        <item>@drawable/arrows_a</item>
+        <item>@drawable/barbarians_a</item>
+        <item>@drawable/bomber_a</item>
+        <item>@drawable/cannon_a</item>
+        <item>@drawable/goblins_a</item>
+        <item>@drawable/minions_a</item>
+        <item>@drawable/mortar_a</item>
+        <item>@drawable/skeletons_a</item>
+        <item>@drawable/spear_goblins_a</item>
+        <item>@drawable/tesla_a</item>
+        <item>@drawable/zap_a</item>
+
+    </array>
+
+    <string-array name="eCard_name">
+        <item>Baby Dragon</item>
+        <item>Balloon</item>
+        <item>Freeze</item>
+        <item>Giant Skeleton</item>
+        <item>Goblin Barrel</item>
+        <item>Golem</item>
+        <item>Lightning</item>
+        <item>Mirror</item>
+        <item>Rage</item>
+        <item>Skeleton Army</item>
+        <item>Witch</item>
+        <item>X Bow</item>
+    </string-array>
+
+    <string-array name="rCard_name">
+        <item>Barbarian Hut</item>
+        <item>Bomb Tower</item>
+        <item>Elixer Collector</item>
+        <item>Fireball</item>
+        <item>Giant</item>
+        <item>Goblin Hut</item>
+        <item>Hog Rider</item>
+        <item>Inferno Tower</item>
+        <item>Minni PEKKA</item>
+        <item>Muskateer</item>
+        <item>Rocket</item>
+        <item>Tombstone</item>
+        <item>Valkyrie</item>
+        <item>Wizard</item>
+    </string-array>
+
+    <string-array name="cCard_name">
+        <item>Archers</item>
+        <item>Arrows</item>
+        <item>Barbarians</item>
+        <item>Bomber</item>
+        <item>Cannon</item>
+        <item>Goblins</item>
+        <item>Minions</item>
+        <item>Mortar</item>
+        <item>Skeletons</item>
+        <item>Spear_goblins</item>
+        <item>Tesla</item>
+        <item>Zap</item>
+
+    </string-array>
+
+    <string-array name="lCard_name">
+        <item>Ice Wizard</item>
+        <item>Lava Hound</item>
+        <item>Miner</item>
+        <item>Princess</item>
+        <item>Sparky</item>
+    </string-array>
+    <string-array name="lCard_picture">
+        <item>@drawable/ice_wizard</item>
+        <item>@drawable/lava_hound</item>
+        <item>@drawable/miner</item>
+        <item>@drawable/princess</item>
+        <item>@drawable/sparky</item>
+    </string-array>
+
+    <string-array name="eCard_picture">
+        <item>@drawable/baby_dragon</item>
+        <item>@drawable/balloon</item>
+        <item>@drawable/freeze</item>
+        <item>@drawable/giant_skeleton</item>
+        <item>@drawable/goblin_barrel</item>
+        <item>@drawable/golem</item>
+        <item>@drawable/lightning</item>
+        <item>@drawable/mirror</item>
+        <item>@drawable/rage</item>
+        <item>@drawable/skeleton_army</item>
+        <item>@drawable/witch</item>
+        <item>@drawable/x_bow</item>
+    </string-array>
+
+
+    <array name="rCard_picture">
+        <item>@drawable/barbarian_hut</item>
+        <item>@drawable/bomb_tower</item>
+        <item>@drawable/elixir_collector</item>
+        <item>@drawable/fireball</item>
+        <item>@drawable/giant</item>
+        <item>@drawable/goblin_hut</item>
+        <item>@drawable/hog_rider</item>
+        <item>@drawable/inferno_tower</item>
+        <item>@drawable/mini_pekka</item>
+        <item>@drawable/musketeer</item>
+        <item>@drawable/rocket</item>
+        <item>@drawable/tombstone</item>
+        <item>@drawable/valkyrie</item>
+        <item>@drawable/wizard</item>
+    </array>
+    <array name="cCard_picture">
+        <item>@drawable/archers</item>
+        <item>@drawable/arrows</item>
+        <item>@drawable/barbarians</item>
+        <item>@drawable/bomber</item>
+        <item>@drawable/cannon</item>
+        <item>@drawable/goblins</item>
+        <item>@drawable/minions</item>
+        <item>@drawable/mortar</item>
+        <item>@drawable/skeletons</item>
+        <item>@drawable/spear_goblins</item>
+        <item>@drawable/tesla</item>
+        <item>@drawable/zap</item>
+    </array>
+</resources>
